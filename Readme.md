@@ -8,9 +8,8 @@ Siempre me intereso el mundo de la programacion web y actualmente estoy estudian
 
 Si quieres puedes visitar mi [portfolio](https://nachof948.github.io/Portfolio/)
 
-## 👨🏻‍💻 Sobre Mi
-
 <br>
+## 👨🏻‍💻 Sobre Mi
 
 - 🌎 Soy de Argentina / Tandil
 - 👨🏻‍💻 Me encanta desarrollar paginas webs
