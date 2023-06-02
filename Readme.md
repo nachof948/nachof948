@@ -18,9 +18,7 @@ Si quieres puedes visitar mi [portfolio](https://nachof948.github.io/Portfolio/)
 - 🧠 Me gusta estar constantemente aprendiendo cosas nuevas sobre el desarrollo web
 - 💭 Mi sueño es poder ingresar en la industria y poder trabajar como desarrollado
 - 📧 Contactate conmigo a mi email: nachof948@gmail.com
-- 
-<br>
-<br>
+
 <br>
 
 ## 💻 Tech stack
