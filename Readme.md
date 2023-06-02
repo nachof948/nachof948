@@ -1,6 +1,6 @@
 # 🖖 Hola! Bienvenidos a mi perfil 
 
-Soy un desarrollardor Front End!
+Soy un desarrollador Front End!
 
 Tengo 25 años y vivo en Buenos Aires, Argentina. 
 
