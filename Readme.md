@@ -10,7 +10,6 @@ Si quieres puedes visitar mi [portfolio](https://nachof948.github.io/Portfolio/)
 
 ## 👨🏻‍💻 Sobre Mi
 
-<br>
 
 <img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="300px" align="right">
 
