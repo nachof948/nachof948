@@ -17,7 +17,7 @@ Si quieres puedes visitar mi [portfolio](https://nachof948.github.io/Portfolio/)
 - 🌎 Soy de Argentina / Tandil
 - 👨🏻‍💻 Me encanta desarrollar paginas webs
 - 🧠 Me gusta estar constantemente aprendiendo cosas nuevas sobre el desarrollo web
-- 💭 Mi sueño es poder ingresar en la industria y poder trabajar como desarrollado
+- 💭 Mi sueño es poder ingresar en la industria y poder trabajar como desarrollador
 - 📧 Contactate conmigo a mi email: nachof948@gmail.com
 
 <br>
