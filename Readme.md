@@ -1,4 +1,4 @@
-# 🖖 Hola! Bienvenidos a mi perfil <img align="right" src="https://komarev.com/ghpvc/?username=b4dcat404&style=flat-square&color=blueviolet">
+# 🖖 Hola! Bienvenidos a mi perfil 
 
 Soy un desarrollardor Front End!
 
