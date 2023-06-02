@@ -42,11 +42,8 @@ Si quieres puedes visitar mi [portfolio](https://nachof948.github.io/Portfolio/)
   <a href="https://twitter.com/b4dcat404" target="_blank">
   <code><img alt="My Twitter" width="32" src="https://website-crimea.ru/wp-content/uploads/github/twitter.svg" /></code>
 </a>
-<a href="https://instagram.com/b4dcat404" target="_blank">
-<code><img alt="My Instagram" width="32" src="https://website-crimea.ru/wp-content/uploads/github/instagram.svg" /></code>
-</a>
-<a href="mailto:vitalii.redka.dev@gmail.com" target="_blank">
-<code><img alt="My Mail" width="32" src="https://website-crimea.ru/wp-content/uploads/github/gmail.svg" /></code>
-</a>
+<a href="https://www.linkedin.com/in/absphreak" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/absphreak" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.facebook.com/originalphreak" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p># nachof948
 # nachof948
