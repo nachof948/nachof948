@@ -15,10 +15,10 @@ Si quieres puedes visitar mi [portfolio](https://nachof948.github.io/Portfolio/)
 <img src="https://website-crimea.ru/wp-content/uploads/github/message.gif" width="300px" align="right">
 
 - 🌎 Soy de Argentina / Tandil
-- 👨🏻‍💻 Me encanta desarrollar paginas webs
+- 👨🏻‍💻 Me encanta desarrollar sitios webs
 - 🧠 Me gusta estar constantemente aprendiendo cosas nuevas sobre el desarrollo web
 - 💭 Mi sueño es poder ingresar en la industria y poder trabajar como desarrollador
-- 📧 Contactate conmigo a mi email: nachof948@gmail.com
+- 📧 Contáctate conmigo a mi email: nachof948@gmail.com
 
 <br>
 
