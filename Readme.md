@@ -4,7 +4,7 @@ Soy un desarrollador Front End!
 
 Tengo 25 años y vivo en Buenos Aires, Argentina. 
 
-Siempre me intereso el mundo de la programacion web y actualmente estoy estudiando una Diplomatura en Programacion Web Full Stack en la Universidad Tecnologica Nacional para poder ingresar en la industria.
+Siempre me intereso el mundo de la programación web y actualmente estoy estudiando una Diplomatura en Programación Web Full Stack en la Universidad Tecnológica Nacional para poder ingresar en la industria.
 
 Si quieres puedes visitar mi [portfolio](https://nachof948.github.io/Portfolio/)
 
