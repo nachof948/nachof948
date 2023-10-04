@@ -2,7 +2,7 @@
 
 Soy un desarrollador Front End!
 
-Tengo 25 años y vivo en Buenos Aires, Argentina. 
+Tengo 26 años y vivo en Buenos Aires, Argentina. 
 
 Siempre me intereso el mundo de la programación web y actualmente estoy estudiando una Diplomatura en Programación Web Full Stack en la Universidad Tecnológica Nacional para poder ingresar en la industria.
 
