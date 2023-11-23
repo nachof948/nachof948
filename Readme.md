@@ -1,6 +1,6 @@
 # 🖖 Hola! Bienvenidos a mi perfil 
 
-Soy un desarrollador Front End!
+Soy un desarrollador Web Full Stack!
 
 Tengo 26 años y vivo en Buenos Aires, Argentina. 
 
