@@ -18,7 +18,7 @@ Si quieres puedes visitar mi [portfolio](https://nachof948.github.io/portfolio-J
 - 👨🏻‍💻 Me encanta desarrollar sitios webs
 - 🧠 Me gusta estar constantemente aprendiendo cosas nuevas sobre el desarrollo web
 - 💭 Mi sueño es poder ingresar en la industria y poder trabajar como desarrollador
-- 📧 Contáctate conmigo a mi email: nachof948@gmail.com
+- 📧 Contáctate conmigo a mi email: ignaciofernandezdeveloper@gmail.com
 
 <br>
 
