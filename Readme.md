@@ -2,9 +2,9 @@
 
 Soy un desarrollador Web Full Stack!
 
-Tengo 26 años y vivo en Buenos Aires, Argentina. 
+Tengo 27 años y vivo en Buenos Aires, Argentina. 
 
-Siempre me intereso el mundo de la programación web y actualmente estoy estudiando una Diplomatura en Programación Web Full Stack en la Universidad Tecnológica Nacional para poder ingresar en la industria.
+Siempre me intereso el mundo de la programación web y actualmente estoy estudie una Diplomatura en Programación Web Full Stack en la Universidad Tecnológica Nacional.
 
 Si quieres puedes visitar mi [portfolio](https://nachof948.github.io/portfolio-Js-React/)
 
@@ -17,7 +17,7 @@ Si quieres puedes visitar mi [portfolio](https://nachof948.github.io/portfolio-J
 - 🌎 Soy de Argentina / Tandil
 - 👨🏻‍💻 Me encanta desarrollar sitios webs
 - 🧠 Me gusta estar constantemente aprendiendo cosas nuevas sobre el desarrollo web
-- 💭 Mi sueño es poder ingresar en la industria y poder trabajar como desarrollador
+- 💭 Mi sueño continuar trabajando como desarrollador y aprender nuevas herramientas
 - 📧 Contáctate conmigo a mi email: ignaciofernandezdeveloper@gmail.com
 
 <br>
